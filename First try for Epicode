@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta epicode />
+        <meta web developer />
+            <title> Progettino di prova </title>
+    </head>
+
+    <body>
+        <div style="background-color: purple"> <h1> <i> Da assicuratore a sviluppatore web </i> </h1> </div>
+        <div> <img src= "https://lukeinpoetryslam.wordpress.com/wp-content/uploads/2020/11/cropped-cropped-piedi-in-acqua.png" style="width10px" "alt=disegno poetico in stile pitturato raffigurante dei piedi sopra dell'acqua/>
+        </div>
+       <div>
+           <img src="https://qph.cf2.quoracdn.net/main-thumb-2817672756-200-ijjecyueaadzlhtndcqtfxdkachszvqh.jpeg" align="right"> <br>
+       </div>
+        <div>
+            <p> Ciao, </p> 
+            <p> Benvenut* qui da me! </p>
+            <p> Mi chiamo Lukas, svizzero di Zurigo ma cresciuto a Roma e da 13 anni adottato da Milano. </p>
+         <FONT face="times new roman">   <p> <i>Ma chi sono davvero? </i> </p> </FONT>
+          </div>
+          
+         
+             <div "floath:left">
+                
+                     <b>Identità</b><br>
+            <ul>
+               <li>Nerd appasionato di videogiochi</li>
+               <li>Amante di storia e politica</li> 
+               <li>Lettore compulsivo di manga</li>
+               <li>Collezionista compulsivo di action figures</li>
+            </ul> <br> 
+          </div>
+      <hr>
+          
+          <div "floath:right"><b>Esperienze formative</b> <br> 
+          <ul>
+              <li>Liceo scientifico-economico</li>
+              <li>Laurea in scienze storiche</li>
+              <li>Master in cooperazione</li>
+              <li>E mo un nuovo percorso in Epicode</li>
+              </ul> <br>
+             
+              </div>
+              <br>
+          
+        <div
+           style="background-color: green"> <i>Per contattarmi: weber.ltm@gmail.com oppure +39 349.6020460 ma volendo anche su <a href= "https://www.instagram.com/luk_elvetico/"> Instagram</a></i> 
+        </div> <br>
+      </body>     
+</html>
